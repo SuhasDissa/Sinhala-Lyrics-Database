@@ -1,0 +1,542 @@
+[
+    {
+        "artistID": 14,
+        "artistName": "අබේවර්ධන බාලසූරිය - abewardana balasuriya"
+    },
+    {
+        "artistID": 15,
+        "artistName": "අජිත් බණ්ඩාර - ajith bandara"
+    },
+    {
+        "artistID": 16,
+        "artistName": "අජිත් මුතුකුමාරණ - ajith muthukumarana"
+    },
+    {
+        "artistID": 17,
+        "artistName": "අජිත් පෙරේරා - ajith perera"
+    },
+    {
+        "artistID": 18,
+        "artistName": "අමල් පෙරේරා - amal perera"
+    },
+    {
+        "artistID": 19,
+        "artistName": "අමරසිරි පීරිස් - amarasiri piris"
+    },
+    {
+        "artistID": 20,
+        "artistName": "අමිල පෙරේරා - amila perera"
+    },
+    {
+        "artistID": 21,
+        "artistName": "ඇන්ජලින් ගුණතිලක - anjaleen gunathilaka"
+    },
+    {
+        "artistID": 22,
+        "artistName": "ඇන්ටන් ජෝන්ස් - anton jones"
+    },
+    {
+        "artistID": 23,
+        "artistName": "අසංක ප්‍රියමන්ත - asanka priyamantha"
+    },
+    {
+        "artistID": 24,
+        "artistName": "ආත්මා ලියනගේ - athma liyanage"
+    },
+    {
+        "artistID": 25,
+        "artistName": "අතුල අධිකාරී - athula adhikari"
+    },
+    {
+        "artistID": 26,
+        "artistName": "අතුල ශ්‍රී ගමගේ - athula sri gamage"
+    },
+    {
+        "artistID": 27,
+        "artistName": "බාචි සුසාන් - bachi susan"
+    },
+    {
+        "artistID": 28,
+        "artistName": "බණ්ඩාර අතාවුද - bandara athawuda"
+    },
+    {
+        "artistID": 29,
+        "artistName": "භාතිය සහ සන්තුෂ් - bhathiya and santhush"
+    },
+    {
+        "artistID": 30,
+        "artistName": "බිලී ප්‍රනාන්දු - billy fernando"
+    },
+    {
+        "artistID": 31,
+        "artistName": "බුද්ධික උෂාන් - buddika ushan"
+    },
+    {
+        "artistID": 32,
+        "artistName": "සෙන්ටිග්‍රේඩ්ස් - centigradez"
+    },
+    {
+        "artistID": 33,
+        "artistName": "චාමර රණවක - chamara ranawaka"
+    },
+    {
+        "artistID": 34,
+        "artistName": "චාමර වීරසිංහ - chamara weerasinghe"
+    },
+    {
+        "artistID": 35,
+        "artistName": "චාමික සිරිමාන්න - chamika sirimanna"
+    },
+    {
+        "artistID": 36,
+        "artistName": "චන්දන ලියනාරච්චි - chandana liyanarachchi"
+    },
+    {
+        "artistID": 37,
+        "artistName": "චන්ද්‍රලේඛා පෙරේරා - chandraleka perera"
+    },
+    {
+        "artistID": 38,
+        "artistName": "චන්ද්‍රසේන හෙට්ටිආරච්චි - chandrasena hettiarachchi"
+    },
+    {
+        "artistID": 39,
+        "artistName": "චරිතා ප්‍රියදර්ශනී පීරිස් - charitha priyadarshani"
+    },
+    {
+        "artistID": 40,
+        "artistName": "චිලී තිලංක - chillie thilanka"
+    },
+    {
+        "artistID": 41,
+        "artistName": "චිත්‍රාල් සෝමපාල - chithral somapala"
+    },
+    {
+        "artistID": 42,
+        "artistName": "ක්ලැරන්ස් විජේවර්ධන  - clarance wijewardana"
+    },
+    {
+        "artistID": 43,
+        "artistName": "දමිත් අසංක  - damith asanka"
+    },
+    {
+        "artistID": 44,
+        "artistName": "ධනපාල උඩවත්ත - dhanapala udawatta"
+    },
+    {
+        "artistID": 45,
+        "artistName": "ධර්මදාස වල්පොල - dharmadasa walpola"
+    },
+    {
+        "artistID": 46,
+        "artistName": "දයාන් විතාරණ - dayan witharana"
+    },
+    {
+        "artistID": 47,
+        "artistName": "දයාරත්න රණතුංග - dayarathna ranathunga"
+    },
+    {
+        "artistID": 48,
+        "artistName": "දීපිකා ප්‍රියදර්ශනී පීරිස් - deepika priyadarshani"
+    },
+    {
+        "artistID": 49,
+        "artistName": "දිමංක වෙල්ලාලගේ  - dimanka wellalage"
+    },
+    {
+        "artistID": 50,
+        "artistName": "දුශාන් ජයතිලක - dushan jayathilaka"
+    },
+    {
+        "artistID": 51,
+        "artistName": "දුෂ්යන්ත් වීරමන් - dushyanth weeraman"
+    },
+    {
+        "artistID": 52,
+        "artistName": "එඩ්වඩ් ජයකොඩි - edward jayakodi"
+    },
+    {
+        "artistID": 53,
+        "artistName": "ෆ්‍රෙඩී සිල්වා  - freddi silva"
+    },
+    {
+        "artistID": 54,
+        "artistName": "ගයනි මධුශා - gayani madusha"
+    },
+    {
+        "artistID": 55,
+        "artistName": "ගයන්ත විජේරත්න - gayantha wijerathna"
+    },
+    {
+        "artistID": 56,
+        "artistName": "ග්‍රේෂන් ආනන්ද - greshan ananda"
+    },
+    {
+        "artistID": 57,
+        "artistName": "ගුණදාස කපුගේ - gunadasa kapuge"
+    },
+    {
+        "artistID": 58,
+        "artistName": "එච්.ආර්. ජෝතිපාල - H.R. Jothipala"
+    },
+    {
+        "artistID": 59,
+        "artistName": "හෙන්රි කල්දේරා - henry kaldera"
+    },
+    {
+        "artistID": 60,
+        "artistName": "ඉන්ද්‍රචාපා ලියනගේ - indrachapa liyanage"
+    },
+    {
+        "artistID": 61,
+        "artistName": "ඉන්ද්‍රජිත් දොළමුල්ල - indrajith dolamulla"
+    },
+    {
+        "artistID": 62,
+        "artistName": "ඉන්ද්‍රාණි පෙරේරා  - indrani perera"
+    },
+    {
+        "artistID": 63,
+        "artistName": "ඉඳුනිල් අන්දරමාන - idunil andaramana"
+    },
+    {
+        "artistID": 64,
+        "artistName": "ඉරාජ් වීරරත්න - iraj weerarathna"
+    },
+    {
+        "artistID": 65,
+        "artistName": "ජගත් වික්‍රමසිංහ - jagath wickramasinha"
+    },
+    {
+        "artistID": 66,
+        "artistName": "ජය ශ්‍රී - jaya sri"
+    },
+    {
+        "artistID": 67,
+        "artistName": "ජූඩ් රෝගන්ස් - jude rogans"
+    },
+    {
+        "artistID": 68,
+        "artistName": "කරුණාරත්න දිවුල්ගනේ - karunarathna diwulgane"
+    },
+    {
+        "artistID": 69,
+        "artistName": "කසුන් කල්හාර - kasun kalhara"
+    },
+    {
+        "artistID": 70,
+        "artistName": "කවීෂ කවිරාජ් - kaweesha kaviraj"
+    },
+    {
+        "artistID": 71,
+        "artistName": "කීර්ති පැස්කුවෙල් - keerthi pasquel"
+    },
+    {
+        "artistID": 72,
+        "artistName": "කිංස්ලි පීරිස් - kinsley piris"
+    },
+    {
+        "artistID": 73,
+        "artistName": "කිත්සිරි ජයසේකර - kithsiri jayasekara"
+    },
+    {
+        "artistID": 74,
+        "artistName": "ක්‍රිෂාන්ත එරන්දක - krishantha erandaka"
+    },
+    {
+        "artistID": 75,
+        "artistName": "කුෂාණි සඳරේඛා - kushani sadareka"
+    },
+    {
+        "artistID": 76,
+        "artistName": "ළහිරු පෙරේරා - lahiru perera"
+    },
+    {
+        "artistID": 77,
+        "artistName": "ලක්ෂ්මන් හේවාවිතාරණ - lakshman hewawitharana"
+    },
+    {
+        "artistID": 78,
+        "artistName": "ලක්ෂ්මන් හිල්මි - lakshman hilmi"
+    },
+    {
+        "artistID": 79,
+        "artistName": "ලතා වල්පොල - latha walpola"
+    },
+    {
+        "artistID": 80,
+        "artistName": "මධුමාධව අරවින්ද - madumadawa arawinda"
+    },
+    {
+        "artistID": 81,
+        "artistName": "මාලණී බුලත්සිංහල - malani bulathsinhala"
+    },
+    {
+        "artistID": 82,
+        "artistName": "මංජුල පුෂ්පකුමාර - manjula pushpakumara"
+    },
+    {
+        "artistID": 83,
+        "artistName": "මීණා ප්‍රසාදිනී - meena prasadini"
+    },
+    {
+        "artistID": 84,
+        "artistName": "මර්වින් පෙරේරා - mervin perera"
+    },
+    {
+        "artistID": 85,
+        "artistName": "මිල්ටන් මල්ලවාරච්චි - milton mallawarachchi"
+    },
+    {
+        "artistID": 86,
+        "artistName": "මොහිදීන් බෙග් - mohideen beg"
+    },
+    {
+        "artistID": 87,
+        "artistName": "එම්. එස්. ප්‍රනාන්දු - M.S. fernando"
+    },
+    {
+        "artistID": 88,
+        "artistName": "නදීර නෝනිස් - nadeera nonis"
+    },
+    {
+        "artistID": 89,
+        "artistName": "නදිනි ප්‍රේමදාස - nadini premadasa"
+    },
+    {
+        "artistID": 90,
+        "artistName": "නලින් පෙරේරා - nalin perera"
+    },
+    {
+        "artistID": 91,
+        "artistName": "නාමල් උඩුගම - namal udugama"
+    },
+    {
+        "artistID": 92,
+        "artistName": "නන්දා මාලනී - nanda malani"
+    },
+    {
+        "artistID": 93,
+        "artistName": "නීලා වික්‍රමසිංහ - neela wickramasinha"
+    },
+    {
+        "artistID": 94,
+        "artistName": "නෙලූ අධිකාරි - nelu adikari"
+    },
+    {
+        "artistID": 95,
+        "artistName": "නිහාල් නෙල්සන් - nihal nelson"
+    },
+    {
+        "artistID": 96,
+        "artistName": "නිර්මලා රණතුංග - nirmala ranathunga"
+    },
+    {
+        "artistID": 97,
+        "artistName": "නිරෝෂා විරාජිනී - nirosha virajini"
+    },
+    {
+        "artistID": 98,
+        "artistName": "නොයෙල් රාජ් - noyel raj"
+    },
+    {
+        "artistID": 99,
+        "artistName": "ඔශානි සන්දීපා - oshani sandeepa"
+    },
+    {
+        "artistID": 100,
+        "artistName": "ප්‍රදීප් රංගන - pradeep rangana"
+    },
+    {
+        "artistID": 101,
+        "artistName": "ප්‍රදීපා ධර්මදාස - pradeepa darmadasa"
+    },
+    {
+        "artistID": 102,
+        "artistName": "ප්‍රින්ස් උදය ප්‍රියන්ත - prince udaya priyantha"
+    },
+    {
+        "artistID": 103,
+        "artistName": "ප්‍රියා සූරියසේන - priya sooriyasena"
+    },
+    {
+        "artistID": 104,
+        "artistName": "පුන්සිරි සොයිසා - punsiri soisa"
+    },
+    {
+        "artistID": 105,
+        "artistName": "රයිනි චාරුකා - raini charuka"
+    },
+    {
+        "artistID": 106,
+        "artistName": "රනිදු ලංකාගේ - ranidu lankage"
+    },
+    {
+        "artistID": 107,
+        "artistName": "රොඩ්නි වර්ණකුල - rodney warnakula"
+    },
+    {
+        "artistID": 108,
+        "artistName": "රෝහණ බැද්දගේ - rohana beddage"
+    },
+    {
+        "artistID": 109,
+        "artistName": "රෝහණ බෝගොඩ - rohana beddage"
+    },
+    {
+        "artistID": 110,
+        "artistName": "රෝහණ වීරසිංහ - rohana weerasinha"
+    },
+    {
+        "artistID": 111,
+        "artistName": "රොමේෂ් සුගතපාල - romesh sugathapala"
+    },
+    {
+        "artistID": 112,
+        "artistName": "රොෂාන් ප්‍රනාන්දු - roshan fernando"
+    },
+    {
+        "artistID": 113,
+        "artistName": "රූකාන්ත ගුණතිලක - rookantha gunathilaka"
+    },
+    {
+        "artistID": 114,
+        "artistName": "රුවන් හෙට්ටිආරච්චි - ruwan hettiarachchi"
+    },
+    {
+        "artistID": 115,
+        "artistName": "සමන් ද සිල්වා - saman de silva"
+    },
+    {
+        "artistID": 116,
+        "artistName": "සමිතා මුදුන්කොටුව - samitha mudunkotuwa"
+    },
+    {
+        "artistID": 117,
+        "artistName": "සනත් නන්දසිරි - sanath nandasiri"
+    },
+    {
+        "artistID": 118,
+        "artistName": "සංගීත් විජේසූරිය - sangeeth wijesuriya"
+    },
+    {
+        "artistID": 119,
+        "artistName": "සමන් ඉන්දික - saman indika"
+    },
+    {
+        "artistID": 120,
+        "artistName": "සංක දිනෙත් - sanka dineth"
+    },
+    {
+        "artistID": 121,
+        "artistName": "සතිෂ් පෙරේරා - sathish perera"
+    },
+    {
+        "artistID": 122,
+        "artistName": "සේනානායක වේරලියද්ද - senanayaka weraliyadda"
+    },
+    {
+        "artistID": 123,
+        "artistName": "ශානිකා මධුමාලි - shanika madumali"
+    },
+    {
+        "artistID": 124,
+        "artistName": "ශනුද්රි ප්‍රියසාද් - shanudri priyasad"
+    },
+    {
+        "artistID": 125,
+        "artistName": "ශෂිකා නිසංසලා - shashika nisansala"
+    },
+    {
+        "artistID": 126,
+        "artistName": "ශිහාන් මිහිරංග  - shihan mihiranga"
+    },
+    {
+        "artistID": 127,
+        "artistName": "සෝමසිරි මැදගෙදර - somasiri medagedara"
+    },
+    {
+        "artistID": 128,
+        "artistName": "සෝමතිලක ජයමහ - somathilaka jayamaha"
+    },
+    {
+        "artistID": 129,
+        "artistName": "සුභානි හර්ෂනී - subhani harshani"
+    },
+    {
+        "artistID": 130,
+        "artistName": "සුජාතා අත්තනායක - sujatha aththanayaka"
+    },
+    {
+        "artistID": 131,
+        "artistName": "සුනිල් එදිරිසිංහ - sunil edirisinha"
+    },
+    {
+        "artistID": 132,
+        "artistName": "සුනිල් ශාන්ත - sunil shantha"
+    },
+    {
+        "artistID": 133,
+        "artistName": "සුරේන්ද්‍ර පෙරේරා - surendra perera"
+    },
+    {
+        "artistID": 134,
+        "artistName": "තීක්ෂණ අනුරාධ - thikshana anurada"
+    },
+    {
+        "artistID": 135,
+        "artistName": "ටී. එම්. ජයරත්න - T.M. jayarathna"
+    },
+    {
+        "artistID": 136,
+        "artistName": "උදය ශ්‍රී - udaya sri"
+    },
+    {
+        "artistID": 137,
+        "artistName": "උදේශ් ඉන්දුල - udesh indula"
+    },
+    {
+        "artistID": 138,
+        "artistName": "උමාරියා සිංහවංශ - umariya sinhawansha"
+    },
+    {
+        "artistID": 139,
+        "artistName": "උපාලි කන්නන්ගර - upali kannangara"
+    },
+    {
+        "artistID": 140,
+        "artistName": "උරේෂා රවිහාරි - uresha ravihari"
+    },
+    {
+        "artistID": 141,
+        "artistName": "වික්ටර් රත්නායක - victor rathnayaka"
+    },
+    {
+        "artistID": 142,
+        "artistName": "විජය කුමාරතුංග - vijaya kumarathunga"
+    },
+    {
+        "artistID": 143,
+        "artistName": "ඩබ්. ඩී. අමරදේව - W.D. amaradewa"
+    },
+    {
+        "artistID": 144,
+        "artistName": "ඩබ්. ඩී. ආරියසිංහ - W.D. ariyasingha"
+    },
+    {
+        "artistID": 145,
+        "artistName": "විජය බණ්ඩාර වැලිතුඩුව - wijaya bandara welithuduwa"
+    },
+    {
+        "artistID": 146,
+        "artistName": "සනුක වික්‍රමසිංහ - sanuka wickramsingha"
+    },
+    {
+        "artistID": 147,
+        "artistName": "ජානක වික්‍රමසිංහ - janaka wickramasingha"
+    },
+    {
+        "artistID": 148,
+        "artistName": "අනෙකුත් ගායකයන් - others"
+    }
+]
